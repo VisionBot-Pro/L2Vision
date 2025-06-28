@@ -17,6 +17,9 @@
 4. Configure macros and timing
 5. Start automation!
 
+How To Video : 
+
+[![Watch the video on YouTube](https://github.com/user-attachments/assets/4c855322-6984-4fd5-abf4-7d19576607d3)](https://www.youtube.com/watch?v=U1uiFZB2WYw)
 
 ![image1](https://github.com/user-attachments/assets/fdce67ba-0201-4df8-8283-eb9138648218)
 

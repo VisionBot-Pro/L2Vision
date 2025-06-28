@@ -16,8 +16,11 @@
 3. Configure macros and timing
 4. Start automation!
 
+   
 🔗 **Download Latest Version:** https://github.com/VisionBot-Pro/L2Vision/releases/download/v0.52/L2Vision.exe
+
 💬 **Community:** https://discord.gg/gCV9PVbtDz
+
 ☕ **Support:** https://buymeacoffee.com/visionbot
 
 ⚠️ **Use responsibly and follow server rules!**

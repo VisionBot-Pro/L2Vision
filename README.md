@@ -12,9 +12,14 @@
 
 🚀 **Quick Start:**
 1. Download L2Vision.exe
-2. Select your L2 window
-3. Configure macros and timing
-4. Start automation!
+2. Run it as Administrator
+3. Select your L2 window
+4. Configure macros and timing
+5. Start automation!
+
+
+![image1](https://github.com/user-attachments/assets/fdce67ba-0201-4df8-8283-eb9138648218)
+
 
    
 🔗 **Download Latest Version:** https://github.com/VisionBot-Pro/L2Vision/releases/download/v0.52/L2Vision.exe

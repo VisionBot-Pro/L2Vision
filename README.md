@@ -1,4 +1,4 @@
-# L2Vision
+# L2Vision - Macro Loop ( Infinite Macro Loop )
 🏰 **L2 Vision v0.52 - Professional Macro Automation**
 
 🎯 **New Features:**

@@ -25,7 +25,7 @@ How To Video :
 
 
    
-🔗 **Download Latest Version:** https://github.com/VisionBot-Pro/L2Vision/releases/download/v0.52/L2Vision.exe
+🔗 **Download Latest Version:** https://github.com/VisionBot-Pro/L2Vision/releases/download/v0.55/L2Vision.exe
 
 💬 **Community:** https://discord.gg/gCV9PVbtDz
 
